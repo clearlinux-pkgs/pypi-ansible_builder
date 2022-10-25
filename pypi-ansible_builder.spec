@@ -4,7 +4,7 @@
 #
 Name     : pypi-ansible_builder
 Version  : 1.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/3b/95/9f21cc9066b63dde666a662d2d8d20ff43005c25facb13885651c6c2d346/ansible-builder-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3b/95/9f21cc9066b63dde666a662d2d8d20ff43005c25facb13885651c6c2d346/ansible-builder-1.1.0.tar.gz
 Summary  : "A tool for building Ansible Execution Environments"
