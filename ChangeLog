@@ -1,10 +1,25 @@
 CHANGES
 =======
 
-1.1.0
+1.2.0
 -----
 
-* disable zuul container builds for 1.1 branch
+* [backport][release\_1.2] Update CI GH actions (#421)
+* Container image signature validation (#371)
+* Fix secrets\_preflight check (#405)
+* only run pulp tests when registry secrets are available
+* setup\_pulp.sh now expects username as passed in secret
+* Have setup\_pulp.sh exit early if pwd is empty
+* Move test script, some cleanup
+* Add pulp\_integration framework
+* Add LABEL to Containerfile (#397)
+* Fix default tag not being used (#395)
+* Implement ANSIBLE\_GALAXY\_CLI\_ROLE\_OPTS (#394)
+* Remove integration test for prune (#389)
+* Optimize logger lines with formatting (#385)
+* Remove unused Containerfile parameter (#386)
+* Add support of HTTP requirements (#378)
+* Add min python version to install docs (#381)
 * Add --prune-images flag in build command (#375)
 * Added example EE config files (#374)
 * Cleanup UserDefinition class (#370)

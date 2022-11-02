@@ -1,5 +1,5 @@
 PKG_NAME := pypi-ansible_builder
-URL = https://files.pythonhosted.org/packages/3b/95/9f21cc9066b63dde666a662d2d8d20ff43005c25facb13885651c6c2d346/ansible-builder-1.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/45/ed/6ce94d6b28789d8c21cd4d0ba92899688164e883b1bd5660d4e40a974fea/ansible-builder-1.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
