@@ -4,7 +4,7 @@
 #
 Name     : pypi-ansible_builder
 Version  : 1.2.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/45/ed/6ce94d6b28789d8c21cd4d0ba92899688164e883b1bd5660d4e40a974fea/ansible-builder-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/45/ed/6ce94d6b28789d8c21cd4d0ba92899688164e883b1bd5660d4e40a974fea/ansible-builder-1.2.0.tar.gz
 Summary  : "A tool for building Ansible Execution Environments"
@@ -83,7 +83,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1672249671
+export SOURCE_DATE_EPOCH=1672254421
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
